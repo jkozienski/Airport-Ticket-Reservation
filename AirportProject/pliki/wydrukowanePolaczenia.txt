@@ -1,0 +1,70 @@
+ID: 1
+Skad: Berno
+Dokad: Zagrzeb
+Godzina: 15:00
+Data: 11.03.2023
+Wolne miejsca: 14
+
+ID: 2
+Skad: Sofia
+Dokad: Bukareszt
+Godzina: 17:20
+Data: 23.07.2023
+Wolne miejsca: 2
+
+ID: 3
+Skad: Minsk
+Dokad: Kijow
+Godzina: 09:30
+Data: 14.06.2023
+Wolne miejsca: 6
+
+ID: 4
+Skad: Moskwa
+Dokad: Helsinki
+Godzina: 11:00
+Data: 05.11.2023
+Wolne miejsca: 8
+
+ID: 5
+Skad: Wilno
+Dokad: Tallinn
+Godzina: 12:45
+Data: 01.08.2023
+Wolne miejsca: 22
+
+ID: 6
+Skad: Warszawa
+Dokad: Berlin
+Godzina: 09:00
+Data: 27.11.2023
+Wolne miejsca: 36
+
+ID: 7
+Skad: Paryz
+Dokad: Madryt
+Godzina: 10:30
+Data: 18.04.2023
+Wolne miejsca: 49
+
+ID: 8
+Skad: Londyn
+Dokad: Rzym
+Godzina: 12:15
+Data: 03.09.2023
+Wolne miejsca: 16
+
+ID: 9
+Skad: Ateny
+Dokad: Budapeszt
+Godzina: 14:45
+Data: 09.07.2023
+Wolne miejsca: 25
+
+ID: 10
+Skad: Lizbona
+Dokad: Dublin
+Godzina: 16:20
+Data: 30.05.2023
+Wolne miejsca: 6
+

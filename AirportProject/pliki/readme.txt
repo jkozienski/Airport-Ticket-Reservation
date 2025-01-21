@@ -1,0 +1,6 @@
+Plik biletyNormalne - (idBiletu, idPolaczenia, kolumna, rząd)
+Plik biletyDwuosobowe - (idBiletu, idPolaczenia, kolumna1, rząd1, kolumna2, rzad2)
+Plik pasazerowie - (imie, nazwisko, wiek, idBiletu, idPasazera)
+Plik pasazerowie2 - (imie, nazwisko, wiek, idBiletu, idPasazera)
+Plik samoloty - (nazwa, iloscRzedow, iloscKolumn, idSamolot)
+Plik polaczenia - (idPolaczenie, Skad, Dokad, godzina, data, idSamolot)

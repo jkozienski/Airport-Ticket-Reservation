@@ -1,0 +1,14 @@
+Id biletu: 8
+Rodzaj: Bilet Normalny
+Polaczenie: Lizbona - Dublin
+Samolot: Airbus_A320
+Godzina:    16:20
+Data:       30.05.2023
+
+Id biletu: 11
+Rodzaj: Bilet Dwuosobowy
+Polaczenie: Wilno - Tallinn
+Samolot: Bombardier_CRJ900
+Godzina:    12:45
+Data:       01.08.2023
+

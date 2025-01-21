@@ -1,0 +1,11 @@
+Boeing_747 2 2 1
+Airbus_A320 4 4 2
+McDonnell_Douglas_DC-10 3 3 3
+Bombardier_CRJ900 5 5 5
+McDonnell_Douglas_MD-80 3 3 6
+Boeing_737 6 6 7
+Airbus_A320 3 3 8
+Embraer_E190 5 5 9
+Bombardier_CRJ900 4 4 10
+Boeing_777 7 7 11
+
